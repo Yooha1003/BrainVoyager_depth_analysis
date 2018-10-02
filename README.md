@@ -1,3 +1,3 @@
 # BrainVoyager_depth_analysis
-Depth sampling using BV
+Depth sampling using BV\
 Please check issues and download the manual
